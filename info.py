@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = "Media_search"
 API_ID = int(13985209)
 API_HASH = "9ecc14b98a6c7bfbc445f3b425a56e21"
-BOT_TOKEN = "5375286492:AAENZ0XB18lh8RdFlh2CBNem5BQ0ucwLLfU"
+BOT_TOKEN = "5912643727:AAFXyRiy5tK2_pmp8_BP9e6NAwVO90EoSoU"
 # Bot settings
 CACHE_TIME = int(300)
 USE_CAPTION_FILTER = False 
@@ -28,12 +28,12 @@ AUTH_CHANNEL = int(-1001877635960)
 AUTH_GROUPS = None
 
 # MongoDB information
-DATABASE_URI = "mongodb+srv://nitish:nitish876@cluster0.3dspllq.mongodb.net/?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://nitish:nitish876@cluster0.bzhd4fa.mongodb.net/?retryWrites=true&w=majority"
 DATABASE_NAME = "noseen"
 COLLECTION_NAME = "Telegram_files"
 
 # Others
-LOG_CHANNEL = int(-1001769350923)
+LOG_CHANNEL = int(-1001773354327)
 SUPPORT_CHAT = "showtimemovierequest"
 P_TTI_SHOW_OFF = is_enabled(("False"), False)
 IMDB = is_enabled(("False"), False)
